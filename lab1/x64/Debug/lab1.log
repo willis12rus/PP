@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+C:\Users\willi\Desktop\pp\lab1\lab1.cpp(9,33): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\Users\willi\Desktop\pp\lab1\lab1.cpp(9,33): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+C:\Users\willi\Desktop\pp\lab1\lab1.cpp(19,59): warning C4312: <function-style-cast>: преобразование из "int" в "LPVOID" большего размера
+  lab1.vcxproj -> C:\Users\willi\Desktop\pp\lab1\x64\Debug\lab1.exe
