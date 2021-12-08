@@ -1,0 +1,6 @@
+﻿  lab3.cpp
+C:\Users\willi\Desktop\pp\lab3\lab3.cpp(17,26): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\Users\willi\Desktop\pp\lab3\lab3.cpp(17,26): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+C:\Users\willi\Desktop\pp\lab3\lab3.cpp(22,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\willi\Desktop\pp\lab3\lab3.cpp(66,70): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  lab3.vcxproj -> C:\Users\willi\Desktop\pp\lab3\x64\Debug\lab3.exe

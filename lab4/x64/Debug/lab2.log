@@ -1,0 +1,23 @@
+﻿  BMPFILE.cpp
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(18,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(35,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  BMPHelper.cpp
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(18,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(35,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.h(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.h(17,2): warning C4091: static : пропускается слева от "BMPHelper", когда ни одна переменная не объявлена
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(47,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(55,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(57,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(75,30): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(76,30): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.cpp(77,30): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+  lab2.cpp
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(18,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPFILE.h(35,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab4\BMPHelper.h(17,2): warning C4091: static : пропускается слева от "BMPHelper", когда ни одна переменная не объявлена
+  Создание кода...
+  lab2.vcxproj -> C:\Users\willi\Desktop\par prog\PP\lab4\x64\Debug\lab2.exe

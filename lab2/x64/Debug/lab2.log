@@ -1,0 +1,5 @@
+﻿  lab2.cpp
+C:\Users\willi\Desktop\par prog\PP\lab2\BMPFILE.h(18,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab2\BMPFILE.h(35,8): warning C4081: требуется "идентификатор"; обнаружен "("
+C:\Users\willi\Desktop\par prog\PP\lab2\BMPHelper.h(17,2): warning C4091: static : пропускается слева от "BMPHelper", когда ни одна переменная не объявлена
+  lab2.vcxproj -> C:\Users\willi\Desktop\par prog\PP\lab2\x64\Debug\lab2.exe
